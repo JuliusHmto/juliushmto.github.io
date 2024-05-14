@@ -1,6 +1,13 @@
 {% assign data = site.data.data %}
 {% if data.expertises.title %}
 <div class="user">
+  <h1> About Me </h1>
+  <div class="circle-crop">
+    <img alt="user pic" src="{{ "/assets/img/etc/pic.jpeg" | prepend: site.baseurl }}" />
+  </div>
+  <p> {{ site.user_description }} </p>
+</div>
+<div class="user">
   <h1>{{ data.expertises.title }}</h1>
   <p>{{ data.expertises.description }}</p>
 </div>

@@ -1,15 +1,16 @@
 # Site settings
-title: Maulana Kurniawan's Portfolio
-description: A portfolio site about Maulana Kurniawan.
+title: Julius Hermanto's Portfolio
+description: A portfolio site about Julius Hermanto.
 # baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: https://maulana-kurniawan.github.io # the base hostname & protocol for your site e.g. https://maulana-kurniawan.github.io
+url: https://juliushmto.github.io # the base hostname & protocol for your site e.g. https://maulana-kurniawan.github.io
 
 # User settings
-user_name: Maulana Kurniawan
-user_title: Junior Web Programmer
-email: maulanakurniawan128@outlook.co.id
-linkedin:
-github: maulana-kurniawan
+user_name: Julius Hermanto
+user_title: Data Science, Data Visualization, and Machine Learning
+user_description: An aspiring Data Scientist with a strong foundation in statistical analysis, machine learning, and data visualization, adept at applying data analysis and modelling concepts using Python and tools like pandas, numpy, and scikit-learn. Exhibits a strong desire to learn and adjust to new technologies and approaches, and is prepared to take on new challenges in the process of gaining insightful knowledge from data for business optimization. a proactive team player with strong problem-solving skills who is passionate about using data to extract insights that will propel business success.
+email: juliushmto@gmail.com
+linkedin: juliushermanto
+github: JuliusHmto
 gitlab:
 facebook: 
 instagram: 
@@ -18,6 +19,7 @@ twitter:
 telegram:
 discord:
 tiktok:
+medium: juliushmto
 
 # Google-analytics
 google-analytics:
