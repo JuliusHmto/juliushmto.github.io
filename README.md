@@ -2,8 +2,8 @@
 
 Forked from:
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=maulana-kurniawan&repo=maulana-kurniawan.github.io)](https://github.com/maulana-kurniawan/maulana-kurniawan.github.io)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=maulana-kurniawan&repo=maulana-kurniawan.github.io)](https://github.com/maulana-kurniawan/maulana-kurniawan.github.io)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=maulana-kurniawan&repo=maulana-kurniawan.github.io&show_owner=true&theme=vue#gh-light-mode-only)](https://github.com/maulana-kurniawan/maulana-kurniawan.github.io#gh-light-mode-only)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=maulana-kurniawan&repo=maulana-kurniawan.github.io&show_owner=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/maulana-kurniawan/maulana-kurniawan.github.io#gh-dark-mode-only)
 
 
 ## Credits
