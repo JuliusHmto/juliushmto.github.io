@@ -2,13 +2,14 @@
 
 Forked from:
 
-[![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=vue#gh-light-mode-only)](https://github.com/nrandecker/particle#gh-light-mode-only)
-[![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/nrandecker/particle#gh-dark-mode-only)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=maulana-kurniawan&repo=maulana-kurniawan.github.io)](https://github.com/maulana-kurniawan/maulana-kurniawan.github.io)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=maulana-kurniawan&repo=maulana-kurniawan.github.io)](https://github.com/maulana-kurniawan/maulana-kurniawan.github.io)
 
 
 ## Credits
 
-This theme was partially designed with the inspiration from these fine folks
+This website is created thanks to these folks:
 - [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
 - [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
 - [Nathan Randecker](https://github.com/nrandecker/particles/)
+- [Maulana Kurniawan](https://github.com/maulana-kurniawan/maulana-kurniawan.github.io)
