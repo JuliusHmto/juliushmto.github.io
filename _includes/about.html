@@ -12,22 +12,29 @@
   <p>{{ data.expertises.description }}</p>
 </div>
 <div class="user-data">
-  {% for expertise in data.expertises.content %}
   <div class="user-details">
-    <h2>{{ expertise.title }}</h2>
-    <div class="user-expertise">
-      {% if expertise.icon.first %}
-      <span class="devicon-{{ expertise.icon.first }}-plain colored"></span>
-      {% endif %}
-      {% if expertise.icon.second %}
-      <span class="devicon-{{ expertise.icon.second }}-plain colored"></span>
-      {% endif %}
-      {% if expertise.icon.third %}
-      <span class="devicon-{{ expertise.icon.third }}-plain colored"></span>
-      {% endif %}
-    </div>
-    <p class="desc">{{ expertise.description }}</p>
+    <h2>Visualization</h2>
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="64" height="64" viewBox="0 0 48 48">
+      <rect width="1.5" height="9" x="22.75" y="1" fill="#78909c"></rect><rect width="9" height="1.5" x="19" y="4.75" fill="#78909c"></rect><rect width="1.5" height="9" x="40.75" y="19" fill="#5c6bc0"></rect><rect width="9" height="1.5" x="37" y="22.75" fill="#5c6bc0"></rect><rect width="1.5" height="9" x="4.75" y="19" fill="#78909c"></rect><rect width="9" height="1.5" x="1" y="22.75" fill="#78909c"></rect><rect width="1.5" height="9" x="22.75" y="37" fill="#5c6bc0"></rect><rect width="9" height="1.5" x="19" y="40.75" fill="#5c6bc0"></rect><rect width="17" height="3" x="15" y="22" fill="#e8762d"></rect><rect width="3" height="17" x="22" y="15" fill="#e8762d"></rect><rect width="2" height="14" x="11" y="6" fill="#ffa000"></rect><rect width="14" height="2" x="5" y="12" fill="#ffa000"></rect><rect width="2" height="14" x="34" y="6" fill="#607d8b"></rect><rect width="14" height="2" x="28" y="12" fill="#607d8b"></rect><rect width="2" height="14" x="11" y="27" fill="#c62828"></rect><rect width="14" height="2" x="5" y="33" fill="#c62828"></rect><rect width="2" height="14" x="34" y="27" fill="#0d47a1"></rect><rect width="14" height="2" x="28" y="33" fill="#0d47a1"></rect>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="64" height="64" viewBox="0 0 48 48">
+      <path fill="#eda503" d="M38,44H26c-0.552,0-1-0.448-1-1V5c0-0.552,0.448-1,1-1h12c0.552,0,1,0.448,1,1v38	C39,43.552,38.552,44,38,44z"></path><path fill="#ffca28" d="M30,44H18c-0.552,0-1-0.448-1-1V15c0-0.552,0.448-1,1-1h12c0.552,0,1,0.448,1,1v28	C31,43.552,30.552,44,30,44z"></path><path fill="#ffe082" d="M22,44H10c-0.552,0-1-0.448-1-1V25c0-0.552,0.448-1,1-1h12c0.552,0,1,0.448,1,1v18	C23,43.552,22.552,44,22,44z"></path>
+    </svg>
+    <p>My go-to Tools for effective Data Visualization for daily workflows.</p>
   </div>
-  {% endfor %}
+  <div class="user-details">
+    <h2>Code</h2>
+    <span class="devicon-python-plain-wordmark colored"></span>
+    <span class="devicon-postgresql-plain-wordmark colored"></span>
+    <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />      
+    <p>Programming Languages that I am proficient at for Data Processing. P.S. I love clean code.</p>
+  </div>
+  <div class="user-details">
+    <h2>Tools</h2>
+    <span class="devicon-git-plain-wordmark colored"></span>
+    <span class="devicon-gitlab-plain-wordmark colored"></span>
+    <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+    <p>I possess a strong proficiency in Git, GitLab, and Bash, utilizing them for effective project management and command-line interface operations.</p>
+  </div>
 </div>
 {% endif %}
